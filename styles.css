@@ -1,4 +1,37 @@
 legend {
-    color: rgb(255, 5, 159);
+    color: rgb(202, 85, 157);
     font-size: 27px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style:italic;
+}
+
+h {
+    color: rgb(121, 22, 111);
+    font-size: 30px;
+    font-family:serif;
+    font-weight:bolder;
+    font-style:italic;
+}
+
+
+.album-option {
+    display: inline-block;
+    margin: 10px;
+    text-align: start;
+    background-color: rgb(121, 22, 111);
+    width: 500px;
+    height: 160px;
+}
+
+body {
+    background-color:antiquewhite;
+    font-family: Arial, sans-serif;
+}
+
+fieldset {
+    border: 2px solid rgb(202, 85, 157);
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(255, 228, 225);
 }
